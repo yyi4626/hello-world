@@ -19,6 +19,6 @@
   </div>
 
   <div class="container signin">
-    <p>Possiedi un account? <a href="#">Sign in</a>.</p>
+    <p>Hai un account? <a href="#">Sign in</a>.</p>
   </div>
 </form> 
