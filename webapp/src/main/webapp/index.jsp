@@ -14,7 +14,7 @@
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
 
-    <p>Accetta i nostri termini<a href="#">Terms & Privacy</a>.</p>
+    <p>Accetta i nostri termini per la privacy<a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
